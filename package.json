@@ -1,0 +1,21 @@
+{
+    "name": "darkchill",
+    "displayName": "darkchill",
+    "description": "A very chill dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Chill",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Chill-color-theme.json"
+            }
+        ]
+    }
+}
