@@ -1,10 +1,15 @@
 {
 	"name": "Dark Chill",
+	"type": "dark",
+	"author": "Ope Abidemi",
+	"maintainer": "Ope Abidemi <opeabidemi@gmail.com>",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#0f1016",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#0f1016",
+		"activityBar.background": "#0f1016"
 	},
 	"tokenColors": [
 		{
