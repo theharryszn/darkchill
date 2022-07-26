@@ -55,7 +55,16 @@
 		"statusBarItem.hoverBackground": "#7B66CC40",
 		"panel.border": "#0D0C0D",
 		"notifications.background": "#151419",
-		"notificationCenter.border": "#0D0C0D"
+		"notificationCenter.border": "#0D0C0D",
+    "terminal.background": "#151419",
+    "breadcrumb.background": "#151419",
+    "breadcrumbPicker.background": "#151419",
+    "panel.background": "#151419",
+    "activityBar.border": "#0D0C0D",
+    "sideBar.border": "#0D0C0D",
+    "menu.border": "#0D0C0D",
+    "titleBar.border": "#0D0C0D",
+    "tab.activeBorder": "#473397",
 	},
 	"semanticHighlighting": true,
     "semanticTokenColors": {
