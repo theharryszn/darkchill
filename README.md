@@ -5,7 +5,7 @@ A very chill dark theme for VS Code
 
 ### Preview
 
-<img src="https://raw.githubusercontent.com/OpeAbidemi/darkchill/master/screenshot.png" alt="screenshot" width="100%">
+<img src="https://github.com/OpeAbidemi/darkchill/blob/99c0807204ae402bb9291a14e19ebbe1117d0e0d/screeshot.png" alt="screenshot" width="100%">
 
 Created by [Abidemi Ope](https://github.com/OpeAbidemi)
 
