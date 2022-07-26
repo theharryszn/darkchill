@@ -6,8 +6,22 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "license": "MIT",
+    "publisher": "AbidemiOpe",
     "categories": [
         "Themes"
+    ],
+    "bugs": {
+        "url": "https://github.com/OpeAbidemi/darkchill/issues"
+    },
+    "homepage": "https://github.com/OpeAbidemi/darkchill",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OpeAbidemi/darkchill"
+    },
+    "extensionKind": [
+        "ui",
+        "workspace"
     ],
     "contributes": {
         "themes": [
