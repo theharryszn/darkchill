@@ -3,7 +3,7 @@
 
 A very chill dark theme for VS Code
 
-### Preview
+### Preview 👾
 
 <img src="https://github.com/OpeAbidemi/darkchill/blob/99c0807204ae402bb9291a14e19ebbe1117d0e0d/screeshot.png" alt="screenshot" width="100%">
 
