@@ -3,6 +3,7 @@
     "displayName": "darkchill",
     "description": "A very chill dark theme",
     "version": "0.0.3",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -31,5 +32,32 @@
                 "path": "./themes/Dark Chill-color-theme.json"
             }
         ]
-    }
+    },
+    "galleryBanner": {
+        "color": "#0D0D0D",
+        "theme": "dark"
+      },
+    "capabilities": {
+        "untrustedWorkspaces": {
+          "supported": true
+        },
+        "virtualWorkspaces": true
+    },
+    "badges": [
+        {
+            "description": "Version",
+            "href": "https://marketplace.visualstudio.com/items?itemName=AbidemiOpe.darkchill",
+            "url": "https://vsmarketplacebadge.apphb.com/version/abidemiope.darkchill.svg"
+        },
+        {
+            "description": "Ratings",
+            "href": "https://marketplace.visualstudio.com/items?itemName=AbidemiOpe.darkchill",
+            "url": "https://vsmarketplacebadge.apphb.com/rating/abidemiope.darkchill.svg"
+        },
+        {
+            "description": "Installs",
+            "href": "https://marketplace.visualstudio.com/items?itemName=AbidemiOpe.darkchill",
+            "url": "https://vsmarketplacebadge.apphb.com/installs/abidemiope.darkchill.svg"
+        }
+    ]
 }
